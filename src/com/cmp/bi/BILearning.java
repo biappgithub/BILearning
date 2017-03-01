@@ -23,6 +23,7 @@ public class BILearning implements ILearning {
 	public void initialize(ILearningConfig config, boolean debug) throws LearningException {	
 		
 		logger = Logger.getLogger(BILearning.class);
+		/* Test GIT*/
 		/*
 		 runtime environment reserved parameters
 			 UACIEventID
